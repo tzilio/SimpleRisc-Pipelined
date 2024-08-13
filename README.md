@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do curso de Arquitetura de Computadores
 
 ## Visão Geral
 
-O objetivo deste projeto é simular o funcionamento de um processador pipeline com instruções RISC simples. O processador foi modelado e testado em um simulador de circuitos digitais.
+O objetivo deste projeto é simular o funcionamento de um processador pipeline com instruções RISC. O processador foi modelado e testado em um simulador de circuitos digitais.
 
 ## Requisitos
 
