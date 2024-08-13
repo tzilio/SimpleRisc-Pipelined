@@ -20,7 +20,7 @@ Você pode instalar o Digital através do link abaixo:
 
 1. Clone este repositório em sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/tzilio/SimpleRisc-Pipelined.git
    ```
 
 2. Abra o arquivo do projeto no **Digital**.
